@@ -20,10 +20,10 @@ end
 # One partner should uncomment one method, and the other
 # partner should uncomment the other. Git will merge the two
 # sets of changes together.
-
-# def robot_noise
-#   puts "beep boop"
-# end
+puts "Hello!!! :)"
+def robot_noise
+  puts "beep boop"
+end
 
 def train_noise
   puts "choo choo"
